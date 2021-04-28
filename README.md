@@ -8,4 +8,4 @@ This application simplifies the management of purchases and expenses.
 
 This is the user interface of this app : 
 
-![plot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png)
+![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png)
