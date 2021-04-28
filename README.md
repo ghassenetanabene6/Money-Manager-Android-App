@@ -30,7 +30,7 @@ This application simplifies the management of purchases and expenses.
 
 This is a basic mobile application. No further updates are planned.
 
-✉️ **contact** : 
+✉️ **Contact** : 
 
 email : ghassene.tanabene@gmail.com
 
