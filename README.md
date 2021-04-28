@@ -10,7 +10,7 @@ This is the user interface of this app :
 
 📝 This image shows an example of purchases list 
 
-<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png" width="50%">
+<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png" width="20%">
 
 📝 This is the interface to add a new item in purchases list 
 ![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/2.png)
