@@ -24,11 +24,14 @@ This application simplifies the management of purchases and expenses.
 
 
 
-📅 **Last update :** March 2019
+📅 **Last update On :** March 2019
+
 📢 **Notes :**
+
 This is a basic mobile application. No further updates are planned.
 
 ✉️ **contact** : 
+
 email : ghassene.tanabene@gmail.com
 linkedin : https://www.linkedin.com/in/ghassene-tanabene/
 
