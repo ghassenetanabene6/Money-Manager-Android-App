@@ -6,7 +6,7 @@ This application simplifies the management of purchases and expenses.
 
 📍 **Keywords**: Android Studio, Java, XML, SQLite
 
-This is the user interface of this app : 
+📍 **Screenshots**:
 
 📝 This image shows an example of purchases list 
 
