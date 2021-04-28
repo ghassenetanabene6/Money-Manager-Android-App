@@ -10,16 +10,17 @@ This is the user interface of this app :
 
 📝 This image shows an example of purchases list 
 
-<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png" width="20%">
+<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png" width="30%">
 
 📝 This is the interface to add a new item in purchases list 
-![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/2.png)
+<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/2.png" width="30%">
 
 
-![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/3.png)
+<img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/3.png" width="30%">
 
 
 
 
-📅 Last update March 2019
+📅 **Last update :** March 2019
+
 
