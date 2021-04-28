@@ -4,12 +4,13 @@ Money Manager, also known as "Tounsi Mnadhem," is an Android app that allows you
 
 This application simplifies the management of purchases and expenses.
 
-📍 Keywords: Android Studio, Java, XML, SQLite
+📍 **Keywords**: Android Studio, Java, XML, SQLite
 
 This is the user interface of this app : 
 
 📝 This image shows an example of purchases list 
-![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png)
+
+![github-small](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/1.png)
 
 📝 This is the interface to add a new item in purchases list 
 ![Screenshot](https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/2.png)
