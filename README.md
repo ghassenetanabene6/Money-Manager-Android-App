@@ -17,6 +17,7 @@ This application simplifies the management of purchases and expenses.
 
 <img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/2.png" width="30%">
 
+📝 This interface shows the total price of purchases list
 
 <img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/3.png" width="30%">
 
@@ -24,5 +25,11 @@ This application simplifies the management of purchases and expenses.
 
 
 📅 **Last update :** March 2019
+📢 **Notes :**
+This is a basic mobile application. No further updates are planned.
+
+✉️ **contact** : 
+email : ghassene.tanabene@gmail.com
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
 
 
