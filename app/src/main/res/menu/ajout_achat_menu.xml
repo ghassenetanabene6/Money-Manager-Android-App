@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/total"
+        android:icon="@drawable/somme"
+        android:title="Total"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/addAchat"
+        app:showAsAction="always"
+        android:icon="@drawable/plus"
+        android:title="Ajouter Nouvel Achat"
+        />
+</menu>
