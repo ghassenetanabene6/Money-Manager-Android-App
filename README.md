@@ -22,7 +22,7 @@ This application simplifies the management of purchases and expenses.
 <img src="https://github.com/ghassenetanabene6/Money-Manager-Android-App/blob/master/screenshots/3.png" width="30%">
 
 
-
+<hr>
 
 📅 **Last Update On :** March 2019
 
